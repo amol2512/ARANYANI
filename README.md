@@ -1,10 +1,10 @@
 # ARANYANI
 
-The Problem: 
+# The Problem: 
 
 With rising urbanisation and increasing demand of real estate, deforestation has been rampant and the number of trees are reducing at an alarming rate. As a result, climate has been hit hard, especially in areas with dense population. The consequences of this decrease in trees have been high CO2 Emissions causing an increase in Global Warming.
 
-Proposed Solution:
+# Proposed Solution:
 
 To counter the problem of decrease in the number of trees due to an imbalance of cutting and planting of trees, Aranyani proposes the following plan:
 - An app that can connect planters and donators
